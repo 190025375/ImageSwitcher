@@ -1,1 +1,1 @@
-ViewPager实现图片切换功能
+ViewPager realize image switching function
